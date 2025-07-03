@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "Name": "Waffle",
+    "Description": "Waffle with Berries", 
+    "Price": "6.50",
+    "DesktopImage": "/public/image-waffle-desktop.jpg",
+    "MobileImage": "/public/image-waffle-mobile.jpg"
+  },
+  
+  {
+    "id": 2,
+    "Name": "Creme Brulee",
+    "Description": "Vanilla Bean Creme Brulee", 
+    "Price": "7.00",
+    "DesktopImage": "/public/image-creme-brulee-desktop.jpg",
+    "MobileImage": "/public/image-creme-brulee-mobile.jpg"
+  },
+  
+  {
+    "id": 3,
+    "Name": "Macaron",
+    "Description": "Macaron Mix of Five", 
+    "Price": "8.00",
+    "DesktopImage": "/public/image-macaron-desktop.jpg",
+    "MobileImage": "/public/image-macaron-mobile.jpg"
+  },
+  
+  {
+    "id": 4,
+    "Name": "Tiramisu",
+    "Description": "Classic Tiramisu", 
+    "Price": "5.50",
+    "DesktopImage": "/public/image-tiramisu-desktop.jpg",
+    "MobileImage": "/public/image-tiramisu-mobile.jpg"
+  },
+  
+  {
+    "id": 5,
+    "Name": "Baklava",
+    "Description": "Pistachio Baklava", 
+    "Price": "4.00",
+    "DesktopImage": "/public/image-baklava-desktop.jpg",
+    "MobileImage": "/public/image-baklava-mobile.jpg"
+  },
+  
+  {
+    "id": 6,
+    "Name": "Pie",
+    "Description": "Lemon Meringue Pie", 
+    "Price": "5.00",
+    "DesktopImage": "/public/image-pie-desktop.jpg",
+    "MobileImage": "/public/image-pie-mobile.jpg"
+  },
+  
+  {
+    "id": 7,
+    "Name": "Cake",
+    "Description": "Red Velvet Cake", 
+    "Price": "4.50",
+    "DesktopImage": "/public/image-cake-desktop.jpg",
+    "MobileImage": "/public/image-cake-mobile.jpg"
+  },
+  
+  {
+    "id": 8,
+    "Name": "Brownie",
+    "Description": "Salted Caramel Brownie", 
+    "Price": "5.50",
+    "DesktopImage": "/public/image-brownie-desktop.jpg",
+    "MobileImage": "/public/image-brownie-mobile.jpg"
+  },
+
+  {
+    "id": 9,
+    "Name": "Panna Cotta",
+    "Description": "Vanilla Panna Cotta", 
+    "Price": "6.50",
+    "DesktopImage": "/public/image-panna-cotta-desktop.jpg",
+    "MobileImage": "/public/image-panna-cotta-mobile.jpg"
+  }
+
+]
