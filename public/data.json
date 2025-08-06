@@ -49,8 +49,8 @@
     "Name": "Pie",
     "Description": "Lemon Meringue Pie", 
     "Price": "5.00",
-    "DesktopImage": "/public/image-pie-desktop.jpg",
-    "MobileImage": "/public/image-pie-mobile.jpg"
+    "DesktopImage": "/public/image-meringue-desktop.jpg",
+    "MobileImage": "/public/image-meringue-mobile.jpg"
   },
   
   {

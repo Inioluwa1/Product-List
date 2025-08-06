@@ -1,0 +1,44 @@
+.confirmOrder{
+  /* border: 3px solid; */
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 1rem 0.5rem;
+}
+.confirmOrderImage{
+  width: 15%;
+  border-radius: 5px;
+  margin-right: 1rem;
+}
+.confirmOrderDetails{
+  /* border: 2px solid red; */
+  width: 60%;
+  margin-right: 1rem;
+}
+.confirmOrderName{
+  font-weight: 700;
+}
+.confirmOrderPriceDetails{
+  display: flex;
+  /* border: 2px solid blue; */
+  width: 40%;
+  justify-content: space-between;
+  align-items: center;
+}
+.confirmOrderQuantity{
+  color: rgb(199, 58, 15) ;
+  font-weight: 600;
+}
+.confirmOrderPrice{
+  color: rgb(135, 99, 90);
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+.confirmOrderTPrice{
+  /* border: 2px solid green; */
+  width: 20%;
+  text-align: center;
+  color: rgb(38, 15, 8);
+  font-weight: 700;
+  font-size: 1.4rem;
+}

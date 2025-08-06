@@ -1,0 +1,83 @@
+.IndDesertContainer{
+  /* border: 3px solid green; */
+  width: 95%;
+}
+
+.IndDesertImageContainer{
+  /* border: 3px solid red; */ 
+}
+.giveBorder{
+  border: 3px solid rgb(199, 58, 15);
+  border-radius: 5px;
+}
+.IndDesertImage{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.IndDesertCart, .IndDesertQuantity{
+  display: flex;
+  width: 70%;
+  align-items: center;
+  justify-content: center;
+  padding: 0.7rem;
+  border-radius: 50px;
+  border: 1px solid  hsl(14, 65%, 9%);
+  position: relative;
+  left: 15%;
+  bottom: 2rem;
+  background-color: white;
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+.IndDesertCart{
+  cursor: pointer;
+}
+.IndDesertCart img{
+  margin-right: 0.4rem;
+}
+
+.IndDesertQuantity{
+  padding: 0.5rem 0.7rem;
+  justify-content: space-around;
+  background-color: rgb(199, 58, 15);
+}
+
+.decrease, .increase{
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 0rem 0.5rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  color: white;
+}
+
+.decrease:hover, .increase:hover{
+  background-color: white;
+  color:hsl(14, 86%, 42%)
+}
+
+.quantity{
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: white;
+}
+
+.Info{
+  margin-top: -1rem; 
+}
+
+.Name{
+  color:  rgb(173, 137, 133);
+}
+
+.Details{
+  font-weight: 900;
+  font-size: 1.2rem;
+}
+
+.Price{
+  color: rgb(103, 64, 3);
+  font-size: 1.2rem;
+  font-weight: 600;
+}

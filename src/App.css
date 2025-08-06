@@ -1,5 +1,14 @@
 #root {
   margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  padding: 3rem 10rem;
+  /* text-align: center; */
+  /* border: 3px solid; */
+  height: auto;
+}
+
+.App {
+  /* border: 3px solid red; */
+  display: flex;
+  align-items: top;
+  justify-content: space-between;
 }
