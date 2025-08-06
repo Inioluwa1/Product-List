@@ -1,5 +1,5 @@
 .confirmationPage{
-  border: 3px solid;
+  /* border: 3px solid; */
   width: 40%;
   padding: 2rem;
   background-color: white;margin: auto;
@@ -52,3 +52,10 @@
   background-color: rgb(177, 166, 163);
 }
 
+@media screen and (max-width: 700px) {
+  .confirmationPage{
+    width: 90%;
+    left: 5%;
+    padding: 1rem;
+  }
+}

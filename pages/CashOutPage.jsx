@@ -16,6 +16,12 @@ export default function CashOutPage({Variousmeals, setVariousmeals, chosendesert
 
   const handleConfirm = () => {
     setConfirm(true)
+
+    //scroll to the top
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    })
   }
 
 

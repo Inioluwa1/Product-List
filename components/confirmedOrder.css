@@ -42,3 +42,9 @@
   font-weight: 700;
   font-size: 1.4rem;
 }
+
+@media screen and (max-width: 700px) {
+  .confirmOrderPriceDetails{
+    width: 50%;
+  }
+}
