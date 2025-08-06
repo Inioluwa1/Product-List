@@ -26,3 +26,9 @@
   margin: auto;
  } 
 }
+
+@media screen and (max-width: 400px) {
+  #root {
+    padding: 1rem;
+  }
+}
