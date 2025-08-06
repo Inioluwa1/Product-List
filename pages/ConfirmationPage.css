@@ -1,5 +1,5 @@
 .confirmationPage{
-  /* border: 3px solid; */
+  border: 3px solid;
   width: 40%;
   padding: 2rem;
   background-color: white;margin: auto;
@@ -51,3 +51,4 @@
   color: black;
   background-color: rgb(177, 166, 163);
 }
+

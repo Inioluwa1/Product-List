@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import './IndDesert.css'
 
 
-export default function IndDesert({meal, setVariousmeals}) {
+export default function IndDesert({meal, setVariousmeals, isMobile}) {
   const [show, setShow] = useState(false)
 
   useEffect(() => {
@@ -34,14 +34,14 @@ export default function IndDesert({meal, setVariousmeals}) {
           Tprice: mealitem.Price * (mealitem.Quantity > 0? mealitem.Quantity - 1 : 0)} :
         mealitem
       )
-    )
+    ) 
   } 
 
 
   return (
     <div className='IndDesertContainer'>
       <div className='IndDesertImageContainer'>
-        <img src={meal.DesktopImage} alt={meal.Name} className={` IndDesertImage ${meal.Quantity> 0 ? 'giveBorder' : ''}`} />
+        <img src={isMobile? meal.MobileImage: meal.DesktopImage} alt={meal.Name} className={` IndDesertImage ${meal.Quantity> 0 ? 'giveBorder' : ''}`} />
         {!show? 
         <div className='IndDesertCart' onClick={showquantity}>
           <img src='/icon-add-to-cart.svg' alt='Add to Cart' />

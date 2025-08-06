@@ -12,3 +12,17 @@
   align-items: top;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1400px) {
+  #root{
+    padding: 3rem;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+ .App{
+  display: block;
+  width: 90%;
+  margin: auto;
+ } 
+}
