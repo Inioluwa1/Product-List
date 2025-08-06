@@ -5,7 +5,7 @@
     "Description": "Waffle with Berries", 
     "Price": "6.50",
     "DesktopImage": "/image-waffle-desktop.jpg",
-    "MobileImage": "/public/image-waffle-mobile.jpg"
+    "MobileImage": "/image-waffle-mobile.jpg"
   },
   
   {
@@ -14,7 +14,7 @@
     "Description": "Vanilla Bean Creme Brulee", 
     "Price": "7.00",
     "DesktopImage": "/image-creme-brulee-desktop.jpg",
-    "MobileImage": "/public/image-creme-brulee-mobile.jpg"
+    "MobileImage": "/image-creme-brulee-mobile.jpg"
   },
   
   {
@@ -23,7 +23,7 @@
     "Description": "Macaron Mix of Five", 
     "Price": "8.00",
     "DesktopImage": "/image-macaron-desktop.jpg",
-    "MobileImage": "/public/image-macaron-mobile.jpg"
+    "MobileImage": "/image-macaron-mobile.jpg"
   },
   
   {
@@ -32,7 +32,7 @@
     "Description": "Classic Tiramisu", 
     "Price": "5.50",
     "DesktopImage": "/image-tiramisu-desktop.jpg",
-    "MobileImage": "/public/image-tiramisu-mobile.jpg"
+    "MobileImage": "/image-tiramisu-mobile.jpg"
   },
   
   {
@@ -41,7 +41,7 @@
     "Description": "Pistachio Baklava", 
     "Price": "4.00",
     "DesktopImage": "/image-baklava-desktop.jpg",
-    "MobileImage": "/public/image-baklava-mobile.jpg"
+    "MobileImage": "/image-baklava-mobile.jpg"
   },
   
   {
@@ -50,7 +50,7 @@
     "Description": "Lemon Meringue Pie", 
     "Price": "5.00",
     "DesktopImage": "/image-meringue-desktop.jpg",
-    "MobileImage": "/public/image-meringue-mobile.jpg"
+    "MobileImage": "/image-meringue-mobile.jpg"
   },
   
   {
@@ -59,7 +59,7 @@
     "Description": "Red Velvet Cake", 
     "Price": "4.50",
     "DesktopImage": "/image-cake-desktop.jpg",
-    "MobileImage": "/public/image-cake-mobile.jpg"
+    "MobileImage": "/image-cake-mobile.jpg"
   },
   
   {
@@ -68,7 +68,7 @@
     "Description": "Salted Caramel Brownie", 
     "Price": "5.50",
     "DesktopImage": "/image-brownie-desktop.jpg",
-    "MobileImage": "/public/image-brownie-mobile.jpg"
+    "MobileImage": "//mage-brownie-mobile.jpg"
   },
 
   {
@@ -77,7 +77,7 @@
     "Description": "Vanilla Panna Cotta", 
     "Price": "6.50",
     "DesktopImage": "/image-panna-cotta-desktop.jpg",
-    "MobileImage": "/public/image-panna-cotta-mobile.jpg"
+    "MobileImage": "/image-panna-cotta-mobile.jpg"
   }
 
 ]
